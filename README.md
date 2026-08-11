@@ -140,17 +140,6 @@ Potential Enhancements
 - Portfolio rebalancing analysis.
 - Automated data refresh.
 
-Suggested Repository Structure
-
-investment-portfolio-powerbi/
-├── data/
-├── powerbi/
-│   └── investment_portfolio_dashboard.pbix
-├── screenshots/
-│   ├── portfolio-performance.png
-│   └── risk-performance.png
-└── README.md
-
 Author
 
 Deena Ali
